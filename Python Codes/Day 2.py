@@ -1,0 +1,17 @@
+# a=complex(4,5)
+# print(a)
+# print("type of a is ",type(a))
+# print(3//2)
+# print("Enter value of a :")
+a=input("enter value of first number : ")
+b=input("enter value of second number : ")
+# b=31
+# a=632
+# print(a)
+print("addition=",a+b)
+print("subtraction=",a-b)
+print("multiplication=",a*b)
+print("division=",a-b)
+print("remainder=",a%b)
+print("floor multiplication=",a+b)
+print("power=",a**b)
