@@ -8,6 +8,7 @@ abstract class Student1 { // to create an abstract method or atribute the class 
     abstract public void study();
 
 }
+
 class Student2 extends Student1{
     String wife_name="hhhhhh";
     public void study(){
