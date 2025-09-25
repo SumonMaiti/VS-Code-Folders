@@ -1,10 +1,11 @@
 void setup()
 {
-   pinMode(12, INPUT_PULLUP);
+    pinMode(12, INPUT_PULLUP);
 }
 
 void loop()
 {
-    int val= digitalRead(12);
-
+    int val = digitalRead(12);
 }
+//this is an example
+//example
