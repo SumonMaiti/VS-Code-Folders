@@ -66,4 +66,5 @@ class FindSecondSmallestElement {
             System.out.printf("%d ", arr[i]);
 
     }
+    
 }

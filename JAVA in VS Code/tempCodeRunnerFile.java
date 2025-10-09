@@ -1,1 +1,1 @@
-name3.indexOf(name2)
+//name3.indexOf(name2)

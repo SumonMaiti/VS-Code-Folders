@@ -1,0 +1,16 @@
+/* tag element selector */
+/* h1{
+    background-color: pink;
+}
+h2{
+    background-color: red;
+} */
+
+/* id based selector #based selector @@ id must be unique always */
+/* #first {
+    background-color: aqua;
+} */
+
+.third { 
+    background-color: aqua;
+}

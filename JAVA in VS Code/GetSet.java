@@ -14,6 +14,7 @@
 
 public class GetSet {
     
+    
     public static void main(String[] args) {
         InnerGetSet ob=new InnerGetSet();
         ob.setValueX(20);
