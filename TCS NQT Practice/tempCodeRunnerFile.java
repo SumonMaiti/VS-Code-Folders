@@ -1,0 +1,1 @@
+int high=a.length-1,low=0,mid;
